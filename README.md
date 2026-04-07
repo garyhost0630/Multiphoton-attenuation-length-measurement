@@ -91,7 +91,8 @@ This plot shows the fitted slope (signal vs. power) at each depth.
 - `depth_analysis_topPercent.xlsx` — Intermediate processed data  
 - `depth_vs_slope.png` — Power-law validation across depths  
 - `EAL.png` — Final EAL fitting result  
-- `ZSeries-*` — Raw imaging datasets  
+- `ZSeries-*` — Raw imaging datasets
+- `lookuptable.xlsx` — EOM vs Power
 
 ---
 
