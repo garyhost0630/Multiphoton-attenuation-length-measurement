@@ -122,9 +122,8 @@ This plot shows the fitted slope (signal vs. power) at each depth.
 ---
 
 ## Files in This Repository
-
-- `test.ipynb` — Main analysis notebook  
-- `2P_EAL.ipynb` — Previous analysis notebook  
+ 
+- `2P_EAL.ipynb` — Main analysis notebook  
 - `depth_analysis_topPercent.xlsx` — Intermediate processed data  
 - `depth_vs_slope.png` — Power-law validation across depths  
 - `EAL.png` — Final EAL fitting result  
